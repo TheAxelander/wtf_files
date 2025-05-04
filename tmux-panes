@@ -1,0 +1,13 @@
+Key Bindings|Description
+[bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]%[/bold yellow]|Vertical split
+[bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]"[/bold yellow]|Horizontal split
+[bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]->[/bold yellow]|Move to right pane
+[bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]<-[/bold yellow]|Move to left pane
+[bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]down key[/bold yellow]|Move down to pane
+[bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]up key[/bold yellow]|Move up to pane
+[bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]O[/bold yellow]|Go to next pane
+[bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow];[/bold yellow]|Go to last active pane
+[bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]}[/bold yellow]|Move pane right
+[bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]{[/bold yellow]|Move pane left
+[bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]![/bold yellow]|Covert pane to window
+[bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]X[/bold yellow]|Kill pane
