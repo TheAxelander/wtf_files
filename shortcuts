@@ -1,2 +1,5 @@
 Shortcut|Description
 [bold cyan]CTRL[/bold cyan] + [bold yellow]R[/bold yellow]|Open command history
+[bold cyan]CTRL[/bold cyan] + [bold yellow]T[/bold yellow]|fzf - fuzzy file finding
+[bold cyan]ALT[/bold cyan] + [bold yellow]C[/bold yellow]|fzf - fuzzy directory navigation
+[bold cyan]CTRL[/bold cyan] + [bold yellow]G[/bold yellow]|Open navi
