@@ -1,13 +1,20 @@
 Key Bindings|Description
 [bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]%[/bold yellow]|Vertical split
 [bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]"[/bold yellow]|Horizontal split
+[bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]SPACE[/bold yellow]|Cycle through layouts
 [bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]->[/bold yellow]|Move to right pane
 [bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]<-[/bold yellow]|Move to left pane
 [bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]down key[/bold yellow]|Move down to pane
 [bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]up key[/bold yellow]|Move up to pane
 [bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]O[/bold yellow]|Go to next pane
 [bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow];[/bold yellow]|Go to last active pane
-[bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]}[/bold yellow]|Move pane right
-[bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]{[/bold yellow]|Move pane left
-[bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]![/bold yellow]|Covert pane to window
+[bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]{[/bold yellow] or [bold yellow]}[/bold yellow]|Swap pane with previous/next
+[bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]![/bold yellow]|Break pane into new window
 [bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]X[/bold yellow]|Kill pane
+[bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]:[/bold yellow]|Open command prompt
+[bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]z[/bold yellow]|Zoom/unzoom current pane
+[bold]Copy Mode & Selection[/bold]|
+[bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]\[[/bold yellow]|Enter copy mode
+[bold cyan]CTRL[/bold cyan] + [bold cyan]Space[/bold cyan]|Start selection (emacs mode)
+[bold yellow]Enter[/bold yellow]|Copy selection to tmux buffer
+[bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]][/bold yellow]|Paste from tmux buffer
