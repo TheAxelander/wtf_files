@@ -1,8 +1,0 @@
-Key Bindings|Description
-[bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]c[/bold yellow]|Create new window
-[bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]n[/bold yellow]|Next window
-[bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]p[/bold yellow]|Previous window
-[bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]0-9[/bold yellow]|Jump to window by number
-[bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]w[/bold yellow]|List all windows (interactive)
-[bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow],[/bold yellow]|Rename current window
-[bold cyan]CTRL[/bold cyan] + [bold cyan]B[/bold cyan] [bold yellow]&[/bold yellow]|Kill current window

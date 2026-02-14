@@ -1,7 +1,0 @@
-Command|Description
-[bold bright_green]nano **[/bold bright_green] + [bold cyan]TAB[/bold cyan]|Search file for editing via fzf
-[bold cyan]ALT[/bold cyan] + [bold cyan]C[/bold cyan]|Fuzzy find all subdirectories of the working directory and cd into it
-[bold cyan]STRG[/bold cyan] + [bold cyan]R[/bold cyan]|Search in history via fzf
-[bold bright_green]ssh[/bold bright_green] + [bold cyan]STRG[/bold cyan] + [bold cyan]R[/bold cyan]|Search for ssh command in history via fzf
-[bold bright_green]<command>[/bold bright_green] + [bold cyan]STRG[/bold cyan] + [bold cyan]T[/bold cyan]|Fuzzy find file and append result to command
-[bold bright_green]sudo !![/bold bright_green]|Run last command with sudo
